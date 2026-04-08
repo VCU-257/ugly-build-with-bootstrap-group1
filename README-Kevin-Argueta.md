@@ -17,11 +17,10 @@ The biggest technical challenge was trying to use the calendar component from da
 Yes
 
 - **What I asked the AI:** "Why is this calendar component giving me an error"
--
 - **How it helped & What I learned:** It's how I learned the calendar actually required a dependency.
 
 ## 5. Live Site Link
 
 _Provide the GitHub Pages link to the specific page(s) you built._
 
-- **Live URL:** [Insert Link Here]
+- **Live URL:** https://vcu-257.github.io/ugly-build-with-bootstrap-group1/

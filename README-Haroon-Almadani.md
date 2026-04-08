@@ -22,4 +22,4 @@ The main challenge was integrating a pie chart library with DaisyUI styling whil
 
 ## 5. Live Site Link
 
-**Live URL:** [Insert GitHub Pages Link]
+**Live URL:** https://vcu-257.github.io/ugly-build-with-bootstrap-group1/
